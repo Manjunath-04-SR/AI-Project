@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(head -40)",
+      "Read(//usr/**)",
+      "Read(//usr/local/**)",
+      "Bash(pip3 --version)",
+      "Bash(winget --version)"
+    ]
+  }
+}
